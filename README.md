@@ -1,1 +1,3 @@
-# Boston-Airbnb-Open-Data
+# Exploration of Boston Airbnb Open Data
+
+
