@@ -16,7 +16,7 @@ This is an exploration of the Boston Airbnb open dataset to
 * matplotlib version 1.3 or later: http://matplotlib.org/
 * wordcloud 1.8.1 https://pypi.org/project/wordcloud/
 
-#### Table of content
+#### Table of contents
 * Description
 * Requirements
 * Notebook
