@@ -2,9 +2,9 @@
 # Exploration of Boston Airbnb Open Data
 
 ## Description:
-1)What are the most popular amenities that a potential customer would expect to see?
-2)What are the most popular neighborhoods for rentals?
-3)What is the median price for a rental type?
+1) What are the most popular amenities that a potential customer would expect to see?
+2) What are the most popular neighborhoods for rentals?
+3) What is the median price for a rental type?
 4) Does more rooms mean more dollars?
 5) Of all the data gathered, are there correlations that could be made ?
  
