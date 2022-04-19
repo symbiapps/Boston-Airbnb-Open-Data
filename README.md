@@ -1,6 +1,6 @@
 
 # Exploration of Boston Airbnb Open Data
-
+![airbnb pic](https://user-images.githubusercontent.com/39303516/164062003-82fddfc9-ddd7-41e6-adf2-4709acc879c9.jpg)
 ## Description:
 1) What are the most popular amenities that a potential customer would expect to see?
 2) What are the most popular neighborhoods for rentals?
