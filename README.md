@@ -17,11 +17,12 @@
 * matplotlib version 1.3 or later: http://matplotlib.org/
 * wordcloud 1.8.1 https://pypi.org/project/wordcloud/
 
+
 #### Table of contents
 * Description
 * Requirements
 * Notebook
-
+* blogpost - https://medium.com/@bcazaubon1972/a-beginners-airbnb-rental-analysis-4c82cee42a06
 
 
 
