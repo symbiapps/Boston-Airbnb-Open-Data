@@ -2,16 +2,23 @@
 # Exploration of Boston Airbnb Open Data
 ![airbnb pic](https://user-images.githubusercontent.com/39303516/164062003-82fddfc9-ddd7-41e6-adf2-4709acc879c9.jpg)
 ## Description:
-This is a look into some Airbnb data scraped on September 7, 2016. 
-The data gathered from Boston, Massachusetts. the analysis is done from 
-the point of view of a potential new host. Here I seek to answer the question listed below.
+### Business Understanding
+This an analysis done from the point of view of a potential new host. 
+Here I seek to answer the initial questions a new host might want answered.
 
 1) What are the most popular amenities that a potential customer would expect to see?
 2) What are the most popular neighborhoods for rentals?
 3) What is the median price for a rental type?
 4) Does more rooms mean more dollars?
 5) Of all the data gathered, are there correlations that could be made ?
- 
+
+### Data Understanding
+This is a look into some public Airbnb data scraped on September 7, 2016. 
+The data gathered from Boston, Massachusetts. This dataset is part of Airbnb Inside, and the original source can be found here. http://insideairbnb.com/get-the-data/
+
+### Prepare Data
+The analysis was performed using pandas. The dataset is well formatted except of some missing values. In some instances missing values were removed 
+in other they replaced with calculations where it seem more appropriate.
 
 #### Requirements
 * Installations
