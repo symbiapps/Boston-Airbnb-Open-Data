@@ -4,7 +4,7 @@
 ## Description:
 ### Business Understanding
 This an analysis done from the point of view of a potential new host. 
-Here I seek to answer the initial questions a new host might want answered.
+Here I seek to answer the initial first questions a new host might want answered.
 
 1) What are the most popular amenities that a potential customer would expect to see?
 2) What are the most popular neighborhoods for rentals?
@@ -14,11 +14,14 @@ Here I seek to answer the initial questions a new host might want answered.
 
 ### Data Understanding
 This is a look into some public Airbnb data scraped on September 7, 2016. 
-The data gathered from Boston, Massachusetts. This dataset is part of Airbnb Inside, and the original source can be found here. http://insideairbnb.com/get-the-data/
+The data gathered for Boston, Massachusetts. This dataset is part of Airbnb Inside, and the original source can be found here. http://insideairbnb.com/get-the-data/
 
 ### Prepare Data
-The analysis was performed using pandas. The dataset is well formatted except of some missing values. In some instances missing values were removed 
-in other they replaced with calculations where it seem more appropriate.
+The analysis was performed using pandas. The dataset is well formatted except for some missing values. In some instances missing values were removed 
+in other they were replaced with calculations where it was more appropriate.
+
+### Finding
+My findings were that most hosts stress safety and utilities when advertising their amenities. Rentals are scattered throughout the Boston area. Guesthouses and boats account for the highest median rental prices. The number of bedrooms does not necessarily mean higher rental rates. There are difinite correlations between review rating ,property cleanliness and pricing.
 
 #### Requirements
 * Installations
