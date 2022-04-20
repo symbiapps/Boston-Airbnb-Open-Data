@@ -24,7 +24,7 @@ in other they were replaced with calculations where it was more appropriate.
 My findings were that most hosts stress safety and utilities when advertising their amenities. Rentals are scattered throughout the Boston area. Guesthouses and boats account for the highest median rental prices. The number of bedrooms does not necessarily mean higher rental rates. There are difinite correlations between review rating ,property cleanliness and pricing.
 
 #### Requirements
-* Installations
+Installations:
 * Python version 2.6-2.7 or 3.3-3.5
 * pandas version 0.18.0 or later: http://pandas.pydata.org/ (previous versions will work for most examples as well)
 * numpy version 1.7 or later: http://www.numpy.org/
