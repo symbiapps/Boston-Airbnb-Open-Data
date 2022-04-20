@@ -2,6 +2,10 @@
 # Exploration of Boston Airbnb Open Data
 ![airbnb pic](https://user-images.githubusercontent.com/39303516/164062003-82fddfc9-ddd7-41e6-adf2-4709acc879c9.jpg)
 ## Description:
+This is a look into some Airbnb data scraped on September 7, 2016. 
+The data gathered from Boston, Massachusetts. the analysis is done from 
+the point of view of a potential new host. Here I seek to answer the question listed below.
+
 1) What are the most popular amenities that a potential customer would expect to see?
 2) What are the most popular neighborhoods for rentals?
 3) What is the median price for a rental type?
